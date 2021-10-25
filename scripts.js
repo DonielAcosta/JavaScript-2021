@@ -21,10 +21,20 @@
 
 // operadores incremento/decrementos
 
-let a = 10;
+// let a = 5;
 
 // console.log(a);
 // console.log(a++);
+// console.log(a);
 
-console.log(a--);
+// console.log(a--);
+// console.log(a);
+// console.log(--a);
+
+// operadores de asignacion
+
+let a = 10;
+
+// a = a+3;
+a += 3;
 console.log(a);
